@@ -2,5 +2,5 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": ["source.organizeImports", "source.fixAll.eslint"],
-  "cSpell.words": ["vite", "vitejs"]
+  "cSpell.words": ["fontsource", "vite", "vitejs"]
 }
